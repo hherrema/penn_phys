@@ -1,4 +1,7 @@
-# phys_5585
-Theoretical and Computational Neuroscience (Penn Class)
+# Penn_Phys
+Code written for coursework during Penn undegraduate physics degree!
 
-Jupyter notebooks with code for homework assignement and final exam.
+Courses include:
+1. Theoretical and Computational Neuroscience (PHYS 5585)
+2. Bayesian Data Analysis for the Natural Sciences (PHYS 3358)
+3. Machine Learning (PHYS 3359)
