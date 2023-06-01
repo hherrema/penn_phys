@@ -1,4 +1,4 @@
-# Penn_Phys
+# penn_phys
 Code written for coursework during Penn undegraduate physics degree!
 
 Courses include:
